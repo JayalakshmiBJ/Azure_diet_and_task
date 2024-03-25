@@ -51,4 +51,16 @@ Tools
 * chatbot
 ## OUTCOME
 Users can achieve their weight management goals, whether it's losing, gaining, or maintaining weight, by following personalized nutrition plans. The app can help users make healthier food choices, ensuring they get the right balance of nutrients and vitamins for their specific needs. Over time, the adoption of healthier eating habits and increased physical activity can contribute to an overall healthier lifestyle.
+//home
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/b9a05928-8427-4b15-a1b0-dcc2b3924c42)
+//resourcegroup
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/5e7b6211-322f-4f26-abb0-d9d8b50ec318)
+//vn
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/0be7a4d6-55d6-436b-811c-cbf43d63d10d)
+//vn2
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/a7f8144b-fbe2-4a96-936b-b93260acc6e3)
+//vm
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/1db59bf5-8db9-45a8-9db2-b967510c7151)
+
+
 
