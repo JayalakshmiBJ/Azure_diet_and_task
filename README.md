@@ -62,5 +62,36 @@ Users can achieve their weight management goals, whether it's losing, gaining, o
 //vm
 ![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/1db59bf5-8db9-45a8-9db2-b967510c7151)
 
+//gitbash
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/c897a84c-c749-4ed9-bc95-2e895aabfb21)
+//backup
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/a17ad6c0-67b1-4e91-a990-320a22fa459f)
+//backup notification
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/b0e0c098-cc96-40f3-92c3-ed70a48cc2e5)
+//monitor
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/6c283dd4-bc01-4225-b66a-9e518a8f1727)
+//lan
 
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/8778a906-418a-4c70-8622-e3277384f2d7)
+//login
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/1c722182-e207-4c05-9f35-7b4480ba46f5)
+//signup
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/b0c8e446-79e9-4529-8198-a819444bc97c)
+
+//home 
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/479e85c7-3c83-466f-b7fd-4cff4238caee)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/59496468-51b4-43d8-a472-959f3a032bc9)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/b73135df-b322-4303-a72a-a16b429d9171)
+
+//bmi
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/eaad593a-abce-4858-a692-2458de15fb81)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/fb180da7-51e7-4a88-a923-fe8262ac0722)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/5e22c024-477d-4e54-988a-09c5aa3c53bc)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/3877218c-8992-4782-b7e0-400bac3b667d)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/4a604131-8b45-4d56-9d06-91f93c9427f2)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/1abf93e7-9c6f-4372-af54-e49da1ded492)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/da319612-3765-4b32-a7a8-ed7041bf3b0f)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/dcda81e7-c579-4a8c-873c-c25c6f8237ac)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/972c4a22-12ca-45ad-a8bd-70d27ea422c0)
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156055024/fab84ad4-674c-4f48-92d1-6760f43c5b23)
 
