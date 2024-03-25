@@ -40,7 +40,7 @@ body {
 <body>
  
   <headerlink style="display: flex; justify-content: right;">
-  <span id="Home" style="margin: 1.6rem 0;cursor: pointer; margin-right: 600px; color: white; font-size: 40px; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
+  <span id="logo" style="margin: 1.6rem 0;cursor: pointer; margin-right: 600px; color: white; font-size: 40px; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
     >TDM</span>
    <span id="Home" style="margin: 1.6rem 0;cursor: pointer; margin-right: 25px; color: black; font-size: 1.2rem; font-weight: bold; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
     onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">Home</span>
@@ -142,6 +142,9 @@ body {
         </ul>
     </div>
     <script>
+         document.getElementById('logo').addEventListener('click', function() {
+            window.location.href = 'index.html';
+        });
         document.getElementById('Home').addEventListener('click', function() {
             window.location.href = 'index.html';
         });
