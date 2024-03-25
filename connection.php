@@ -1,7 +1,7 @@
 <?php
 $server = 'localhost';
 $username = 'root';
-$password = '';
+$password = '2023';
 $database = 'diet_db';
 
 if (isset($_POST))
