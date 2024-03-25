@@ -42,3 +42,6 @@
 * backup
 * monitor
 * chatbot
+
+![image](https://github.com/JayalakshmiBJ/Azure_diet_and_task/assets/156053213/ee1e4da5-622e-4e85-937a-67c3f6cb38e7)
+
