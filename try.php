@@ -57,7 +57,7 @@ body {
     onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">Chatbot</span>
 
 
-         <span id="contact" style="margin: 1.6rem 0; margin-right: 25px; color: black;cursor: pointer; font-size: 1.2rem; font-weight: bold; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
+         <span id="logout" style="margin: 1.6rem 0; margin-right: 25px; color: black;cursor: pointer; font-size: 1.2rem; font-weight: bold; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
     onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">Logout</span>
 
 </div>
@@ -165,7 +165,7 @@ body {
         document.getElementById('Chatbot').addEventListener('click', function() {
             window.location.href = 'aibot.html';
         });
-        document.getElementById('Logou').addEventListener('click', function() {
+        document.getElementById('Logout').addEventListener('click', function() {
             window.location.href = 'index.php';
         });
     </script>
