@@ -36,3 +36,9 @@
 
 ## back-end
 * mysql
+## azure service 
+* virtual network
+* virtual machine
+* backup
+* monitor
+* chatbot
