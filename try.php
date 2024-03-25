@@ -47,7 +47,7 @@ body {
     <span id="BMI Calculator" style="margin: 1.6rem 0;cursor: pointer; margin-ri
    ght: 20px; color: black; font-size: 1.2rem; font-weight: bold; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
     onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">BMI Calculator </span>
-    <span id="Diet tips" style="margin: 1.6rem 0; margin-right: 25px; cursor: pointer;color: black; font-size: 1.2rem; font-weight: bold; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
+    <span id="Diettips" style="margin: 1.6rem 0; margin-right: 25px; cursor: pointer;color: black; font-size: 1.2rem; font-weight: bold; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
     onmouseover="this.style.color='white'" onmouseout="this.style.color='black'"></span>
     <span id="ToDo" style="margin: 1.6rem 0; margin-right: 25px; color: black; cursor: pointer;font-size: 1.2rem; font-weight: bold; -webkit-transition: var(--trans); -o-transition: var(--trans); transition: var(--trans);"
     onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">ToDo</span>
@@ -153,7 +153,7 @@ body {
             window.location.href = 'bmi.html';
         });
 
-        document.getElementById('Diet tips').addEventListener('click', function() {
+        document.getElementById('Diettips').addEventListener('click', function() {
             window.location.href = 'diettips.html';
         });
         document.getElementById('ToDo').addEventListener('click', function() {
