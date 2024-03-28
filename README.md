@@ -53,6 +53,14 @@ To run the Fit For It Diet and Task Scheduler project, follow these steps:
 
 - **Chatbot**: Azure offers various services for building AI-powered chatbots, such as Azure Bot Service, Azure Cognitive Services (including Language Understanding, QnA Maker, and Speech), and Azure Bot Framework. These services enable you to create intelligent conversational interfaces for your applications, automate customer support, and enhance user experiences.
 
+## contribution
+
+## 1.majitha - Html css js and php
+## 2.jayalaxmi - backend 
+## 3.arunkumar - readme file
+## 4.aravindhan- cloud and voice over
+
+
 ## Outcome
 
 Users can achieve their weight management goals, whether it's losing, gaining, or maintaining weight, by following personalized nutrition plans. The app helps users make healthier food choices, ensuring they get the right balance of nutrients and vitamins for their specific needs. Over time, adopting healthier eating habits and increased physical activity can contribute to an overall healthier lifestyle.
